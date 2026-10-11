@@ -8,11 +8,11 @@ A [Gensoku Devs](https://www.youtube.com/channel/UC9gPwESzUv7cvtC3qQdhmPQ) YouTu
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Season](https://img.shields.io/badge/Season-01-ec2c34?style=flat-square)
-![Patterns](https://img.shields.io/badge/Patterns-140-ededed?style=flat-square)
-![Umbrellas](https://img.shields.io/badge/Umbrellas-14-ededed?style=flat-square)
+![Patterns](https://img.shields.io/badge/Patterns-141-ededed?style=flat-square)
+![Umbrellas](https://img.shields.io/badge/Umbrellas-15-ededed?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-[▶ Watch the series](https://www.youtube.com/playlist?list=PLP0ayi-SGi8Q) · [Repo layout](#-repository-layout) · [Getting started](#-getting-started)
+[▶ Watch the series](https://www.youtube.com/playlist?list=PLP0ayi-SGi8Q) 
 
 </div>
 
@@ -46,6 +46,7 @@ The umbrellas are ranked by how load-bearing they are in production agents today
 | 12 | Reasoning & Inference-Time Compute | 4 |
 | 13 | Computer, Browser & GUI Control | 2 |
 | 14 | Streaming & Interaction UX | 5 |
+| 15 | Inter-Agent Protocols, Identity & Payments | 1 |
 
 <details>
 <summary><b>01 · Tool Use & Tool Interface Design</b>: nothing is an agent without it</summary>
@@ -268,6 +269,13 @@ The umbrellas are ranked by how load-bearing they are in production agents today
 - [ ] 03. Verbose Reasoning Transparency
 - [ ] 04. Citation Streaming
 - [ ] 05. Semantic Turn Endpointing
+
+</details>
+
+<details>
+<summary><b>15 · Inter-Agent Protocols, Identity & Payments</b>: the key to multi-agent systems and financial systems</summary>
+
+- [ ] 01. A2A Protocol
 
 </details>
 
