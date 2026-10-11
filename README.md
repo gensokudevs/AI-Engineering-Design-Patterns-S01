@@ -12,7 +12,7 @@ A [Gensoku Devs](https://www.youtube.com/channel/UC9gPwESzUv7cvtC3qQdhmPQ) YouTu
 ![Umbrellas](https://img.shields.io/badge/Umbrellas-14-ededed?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-[▶ Watch the series](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID) · [Repo layout](#-repository-layout) · [Getting started](#-getting-started)
+[▶ Watch the series](https://www.youtube.com/playlist?list=PLP0ayi-SGi8Q) · [Repo layout](#-repository-layout) · [Getting started](#-getting-started)
 
 </div>
 
