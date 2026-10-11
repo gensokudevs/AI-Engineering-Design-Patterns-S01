@@ -7,8 +7,8 @@ from fastapi import Depends, FastAPI
 from pydantic import BaseModel
 
 app = FastAPI()
-client = AsyncAnthropic()
-MODEL = "claude-haiku-4.5"
+client = AsyncAnthropic() # reads ANTHROPIC_API_KEY
+MODEL = "claude-haiku-5-5"
 
 class ChatRequest(BaseModel):
     message: str

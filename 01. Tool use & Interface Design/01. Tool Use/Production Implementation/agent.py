@@ -2,8 +2,8 @@ from anthropic import AsyncAnthropic
 from context import RequestContext
 from tools import TOOL_SCHEMAS, execute_tool_call
 
-client = AsyncAnthropic()
-MODEL = "claude-haiku-4.5"
+client = AsyncAnthropic() # reads ANTHROPIC_API_KEY
+MODEL = "claude-haiku-5-5"
 MAX_TURNS = 8
 
 SYSTEM = (

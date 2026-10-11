@@ -1,5 +1,5 @@
 """Replays the naive demo's failure cases as structured model output through the real dispatcher.
-The signed-in customer is u_1. No API key needed. Run: python demo_failures.py"""
+The signed-in customer is u_1. No API key needed. Run: python main.py"""
 import asyncio
 import itertools
 

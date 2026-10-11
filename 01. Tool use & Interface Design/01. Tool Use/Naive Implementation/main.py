@@ -1,5 +1,5 @@
 """Replays realistic model outputs through the naive parser and executor.
-The signed-in customer is u_1. No API key needed. Run: python demo_failures.py"""
+The signed-in customer is u_1. No API key needed. Run: python main.py"""
 import asyncio
 
 from agent import parse_action, run_lookup, run_refund
