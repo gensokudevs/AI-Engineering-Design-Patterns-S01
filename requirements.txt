@@ -1,0 +1,6 @@
+# Shared by every pattern. Python 3.12+.
+anthropic>=1.14
+fastapi>=0.115
+pydantic>=2.9
+uvicorn[standard]>=0.30
+httpx2>=2.13  # the SDK's HTTP client; offline demos replay API responses through its MockTransport
