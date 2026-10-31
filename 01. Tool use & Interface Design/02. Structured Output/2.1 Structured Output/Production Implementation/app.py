@@ -7,10 +7,10 @@ from typing import Literal
 from anthropic import AsyncAnthropic
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
-from routing import route
+from routingService import route
 from schemas import TicketTriage
 from settings import Settings
-from triage import TriageError, triage_ticket
+from triageService import TriageError, triage_ticket
 
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger("triage-service")
